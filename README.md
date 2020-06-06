@@ -27,7 +27,11 @@ all the images that I use are made by myself, for the audio, I use the voice fro
 
 ## Author note
 You can download and use, modify, develop this project freely, of course by giving credit in it
+
 email : faraazap@gmail.com
-facebook : [https://facebook.com/zfz48](https://facebook.com/zfz48)\
+
+facebook : [https://facebook.com/zfz48](https://facebook.com/zfz48)
+
 instagram : [https://instagram.com/f.ahmad480](https://instagram.com/f.ahmad480)
+
 instagram : [https://instagram.com/f.studio480](https://instagram.com/f.studio480)
