@@ -21,3 +21,13 @@ a lot, ranging from the development of covid19, chart form, and much more
 
 ## What's next for Covid-19 Java Island Interactive Chart
 I will make a distribution map that is much broader, the next target is to make a map of Indonesia and divided into provincial units
+
+## Copyright Information
+all the images that I use are made by myself, for the audio, I use the voice from Google Translate
+
+## Author note
+You can download and use, modify, develop this project freely, of course by giving credit in it
+email : faraazap@gmail.com
+facebook : [https://facebook.com/zfz48](https://facebook.com/zfz48)\
+instagram : [https://instagram.com/f.ahmad480](https://instagram.com/f.ahmad480)
+instagram : [https://instagram.com/f.studio480](https://instagram.com/f.studio480)
